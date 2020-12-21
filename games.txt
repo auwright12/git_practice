@@ -1,1 +1,7 @@
 horizon zero dawn
+
+         ^
+        / \
+       /   \
+      /     \
+      -------
